@@ -162,7 +162,7 @@ make sure the LLVM is installed and configured so Prism can build and link again
 clone the repository:
 
 ```bash
-git clone https://github.com/jayywashere/prism
+git clone https://github.com/nathymatic/prism
 cd prism
 ```
 
